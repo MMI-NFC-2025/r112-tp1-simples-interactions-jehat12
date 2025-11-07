@@ -14,3 +14,4 @@ titres.forEach((titre) => {
     event.target.style.color = "red"; // l'élément cliqué devient rouge
   });
 });
+
